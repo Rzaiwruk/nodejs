@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
     <div className="flex h-screen items-center justify-center flex-col bg-gradient-to-r from-green-800 to-blue-700">
-      <div className="bg-amber-500 p-7 rounded-2xl text-4xl shadow-2xs">Mateusz Romanowski</div>
+      <div className="bg-amber-500 p-7 rounded-2xl text-4xl drop-shadow-black">Mateusz Romanowski</div>
       <div>numer albumu: 124058</div>
     </div>
     </>
