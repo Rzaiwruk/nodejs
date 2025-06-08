@@ -8,7 +8,7 @@ export default function Home() {
         <div className="p-7 rounded-2xl text-4xl drop-shadow-black">Mateusz Romanowski</div>
        <div>numer albumu: 124058</div>
       </div>
-      <div className="flex w-screen items-center justify-center flex-col">
+      <div className="flex w-80 items-center justify-center flex-col">
       <div className="text-5xl font-extrabold">Moje top 5 serów</div>
       </div>
     </div>
